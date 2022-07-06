@@ -9,7 +9,7 @@ Research and efforts related to Persian speech processing will be contained in t
 - [Papers](sections/papers.md)
 
 ## Contribute
-We can create awesome toolkits for Persian speech processing, so contributions are welcome! The guideline will be released! Feel free to [contacte me](imankhanijazani@gmail.com).
+We can create awesome toolkits for Persian speech processing, so contributions are welcome! The guideline will be released! Feel free to contact me!
 
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
