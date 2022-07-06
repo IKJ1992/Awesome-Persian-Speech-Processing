@@ -1,4 +1,4 @@
-# Awesome Persian Speech Processing, Tools And Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Persian Speech Processing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Research and efforts related to Persian speech processing will be contained in this repository. As you know, we don't have enough work on Persian, so this repository will cover methods like multilingual or low-resource-based processing. Here are the 6 main sections of this repo!
 
 ### Contents
